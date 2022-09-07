@@ -20,6 +20,4 @@ int main(){
 			cout<<"I love that"<<" ";
 		}
 	}
-	
-	
 }
